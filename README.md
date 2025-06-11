@@ -50,17 +50,16 @@ The system features a modern, user-friendly GUI with gradient backgrounds, style
 
 ## 💻 System Requirements
 
-- Java Development Kit (JDK) 8 or higher
-- Eclipse IDE (recommended) or any Java IDE
-- Minimum 512MB RAM
+- Java Development Kit (JDK) 17 or higher (LTS recommended)
+- Eclipse IDE 2021-09 or later (recommended) or any Java IDE supporting Java 17
 - Windows/macOS/Linux operating system
 
 ## 🚀 Installation & Setup
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/hospital-management-system.git
-   cd hospital-management-system
+   git clone https://github.com/invesigator/Hospital-Management-System.git
+   cd Hospital-Management-System
    ```
 
 2. **Open in IDE**
@@ -146,15 +145,15 @@ src/
 ## 🖼 Screenshots
 
 ### Main Dashboard
-![Main Dashboard](screenshots/dashboard.png)
+![image](https://github.com/user-attachments/assets/0539fde5-2192-4666-83fa-059f7f6a391a)
 *Modern gradient-based main interface with module buttons*
 
 ### Doctor Management
-![Doctor Management](screenshots/doctors.png)
+![image](https://github.com/user-attachments/assets/55c6a4d8-a21f-4024-9b0a-5b8375a2fd1f)
 *Doctor records displayed in formatted table with add functionality*
 
 ### Patient Records
-![Patient Records](screenshots/patients.png)
+![image](https://github.com/user-attachments/assets/ef87c15d-6174-4de9-a402-999699c96f58)
 *Patient information management interface*
 
 ## 📄 License
@@ -164,5 +163,3 @@ This project is created for educational purposes as part of university coursewor
 ---
 
 **Note**: This Hospital Management System is developed as an academic project and is intended for educational purposes only. It should not be used in actual medical environments without proper testing and validation.
-
-*Developed with ❤️ by [Group Name] for UCCD2044 Assignment*
